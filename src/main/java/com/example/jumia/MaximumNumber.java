@@ -1,4 +1,4 @@
-package com.example.jumia.data.models;
+package com.example.jumia;
 
 import java.util.Scanner;
 
