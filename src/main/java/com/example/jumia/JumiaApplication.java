@@ -8,6 +8,7 @@ public class JumiaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JumiaApplication.class, args);
+		System.out.println();
 	}
 
 }
